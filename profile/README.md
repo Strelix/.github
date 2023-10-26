@@ -1,5 +1,5 @@
 <a href="url">
-<img src="logo.png" align="left" height="150">
+<img src="../logo.png" align="left" height="150">
 </a>
 
 # Strelix  
